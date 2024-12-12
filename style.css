@@ -15,7 +15,7 @@ a{
 
 .flex-container{
     background: peachpuff;
-    padding: 12px;
+    padding: 50px;
     border: 4px solid brown;
     height: 100px;
     display: flex;
@@ -24,9 +24,10 @@ a{
 
 li{
     flex: 1;
-    background: peachpuff;
+    background: pink;
     border: 4px solid brown;
     height: 100px;
+    padding: 40px;
 }
 
 ul{
